@@ -9,8 +9,9 @@
 
 <center> <h4>Edinson Contreas Cogollo
         <br>Nelson Guardo Camacho
-        <br>Jorge Gamarra
+        <br>Jorge Gamarra Rodelo
         <br>Dilan Patiño Mendoza
+        <br>Jesus Muentes Castro
  </h4> </center>
 
  <center> <h4>DIRIGIDO A: </h4> </center>
